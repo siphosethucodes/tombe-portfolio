@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #080808;
+    background: lightgrey;
     color: #fff;
 }
 #header{
@@ -37,7 +37,7 @@ body{
    }
 
    nav ul li a{
-    color: #fff;
+    color: black;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -63,12 +63,12 @@ body{
     margin-top: 20px;
    }
    .header-text h1 span{
-    color: lightgreen;
+    color: grey;
    }
    /* -------------about---------- */
    #about{
     padding: 80px 0;
-    color: #ababab;
+    color: whithe;
    }
    .row{
     display: flex;
@@ -182,4 +182,7 @@ form .btn2{
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+}
+.columb img{
+    position: center;
 }
